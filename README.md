@@ -35,7 +35,7 @@ Since the largest window of s only has one 'a', return empty string.
 
 **Constraints:**
 
-`m == s.length`
-`n == t.length`
-`1 <= m, n <= 105`
+`m == s.length`  
+`n == t.length`  
+`1 <= m, n <= 105`  
 `s` and `t` consist of uppercase and lowercase English letters.
